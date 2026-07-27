@@ -1,5 +1,5 @@
 # Large-Scale Geospatial Processing — Performance Engineering
-### Author: Emmanuel Oyekanlu — Principal Data Engineer
+### Author: Emmanuel Oyekanlu — Principal AI/Data Engineer
 
 ---
 
@@ -26,7 +26,7 @@ Left: storage format comparison chart (file size MB + scan time seconds) — Geo
 
 ## Overview
 
-This repository demonstrates performance-oriented geospatial engineering — the art of processing millions of geospatial features efficiently. As a Principal Data Engineer in the manufacturing sector, I regularly worked with datasets that could not fit in memory and required chunked I/O, spatial indexing, and vectorized operations to process in a reasonable time.
+This repository demonstrates performance-oriented geospatial engineering — the art of processing millions of geospatial features efficiently. As a Principal AI/Data Engineer in the manufacturing sector, I regularly worked with datasets that could not fit in memory and required chunked I/O, spatial indexing, and vectorized operations to process in a reasonable time.
 
 The techniques here connect directly to enterprise-scale data lakehouse architectures using Apache Iceberg and Apache Spark.
 
