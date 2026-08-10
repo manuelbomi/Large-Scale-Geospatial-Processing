@@ -34,7 +34,7 @@ The techniques here connect directly to enterprise-scale data lakehouse architec
 
 ## The Scale Challenge in Geospatial Processing
 
-A typical enterprise geospatial problem at Bayer or a large manufacturer involves:
+A typical enterprise geospatial problem at a large manufacturer involves:
 - 10 million field boundaries across a continent
 - 500 million sensor readings (telemetry, weather, satellite imagery)
 - Daily batch updates requiring sub-hour processing SLAs
